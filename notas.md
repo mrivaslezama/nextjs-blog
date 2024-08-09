@@ -28,3 +28,8 @@ npm install
 
 npm run dev
 
+
+https://blog-starter-kit-froj.vercel.app/
+https://nextjs.org/docs/getting-started/installation
+
+https://vercel.com/miguels-projects-33c0cbbd/blog-starter-kit-froj
